@@ -9,7 +9,6 @@ describe('Chaturbate UI Tests', function() {
 	let driver;
 	let homePage;
 	let randomRoom;
-	//let buttons;
   
 // setup browser and navigate to the home page before running any test  
 	before(async function() {
